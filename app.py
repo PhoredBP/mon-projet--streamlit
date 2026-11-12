@@ -1,4 +1,6 @@
 import streamlit as st
+import pandas as pd
 
-st.title("Ma première app")
-st.write("Ça marche !")
+st.title("Mon Premier Dashboard Streamlit")
+st.write("Bienvenue sur cette application interactive dédiée à l'analyse de données.")
+
