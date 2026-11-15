@@ -1,0 +1,3 @@
+nom,mot_de_passe,email,failed_login_attempts,logged_in,role
+perez,1234,perez@gmail.com,0,False,admin
+garcia,5678,garcia@gmail.com,0,False,user
